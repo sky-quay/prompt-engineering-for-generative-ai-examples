@@ -43,50 +43,50 @@ Access all of the jupyter notebooks and python files within the [content](conten
 
 ## Table of Contents
 
-- _Chapter 1: Five Pillars of Prompting_
+- _Chapter 01: Five Pillars of Prompting_
     - Giving Direction
     - Specifying Format
     - Providing Examples
     - Evaluating Quality
     - Dividing Labor
 
-- _Chapter 2: Intro to Text Generation Models_
+- _Chapter 02: Intro to Text Generation Models_
     - What are LLMs?
     - OpenAI’s GPT-4
     - Google’s Bard
     - ... and more
 
-- _Chapter 3: Standard Practices for Text Generation_
+- _Chapter 03: Standard Practices for Text Generation_
     - List Generation
     - Explain It Like I’m Five
     - ... and more
 
-- _Chapter 4: Advanced Techniques for Text Generation with Langchain_
+- _Chapter 04: Advanced Techniques for Text Generation with Langchain_
     - Introduction to Langchain
     - Prompt Templates
     - ... and more
 
-- _Chapter 5: Vector Databases_
+- _Chapter 05: Vector Databases_
     - What are Vector Databases?
     - What are Embeddings?
     - ... and more
 
-- _Chapter 6: Autonomous Agents with Memory and Tools_
+- _Chapter 06: Autonomous Agents with Memory and Tools_
     - Agents
     - Callbacks
     - ... and more
 
-- _Chapter 7: Intro to Diffusion Models for Image Generation_
+- _Chapter 07: Intro to Diffusion Models for Image Generation_
     - What are Diffusion models?
     - OpenAI’s DALL-E
     - ... and more
 
-- _Chapter 8: Standard Practices for Image Generation_
+- _Chapter 08: Standard Practices for Image Generation_
     - Art Style Modifiers
     - Meme Unbundling
     - ... and more
 
-- _Chapter 9: Advanced Techniques for Image Generation_
+- _Chapter 09: Advanced Techniques for Image Generation_
     - Prompt Expansion
     - Meme Mapping
     - ... and more
@@ -109,3 +109,5 @@ Ideal for AI Researchers, Data Scientists, Software Developers, Tech Enthusiasts
 ## Feedback
 
 Your feedback is valuable! Please share your thoughts and suggestions at [james@brightpool.dev](mailto:james@brightpool.dev) or [mike@brightpool.dev](mailto:mike@brightpool.dev)
+
+This page is modified for korean version of this book. Your feeback is valuable! Please share your thoughts and suggestions at sky.quay.itp@gmail.com
